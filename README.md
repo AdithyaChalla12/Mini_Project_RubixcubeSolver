@@ -8,13 +8,8 @@ Rubix Cube Solver is a project designed to solve a Rubik's Cube by allowing user
 - **Kociemba Algorithm**: Apply the Kociemba algorithm to find the optimal solution for solving the cube.
 - **Solution Output**: Display the sequence of moves needed to solve the cube.
 ### Snapshots
+Scanning all the sides of the cube similarly as shown in the below image 
 ![Screenshot 2022-10-31 194613](https://github.com/user-attachments/assets/78c02a78-0897-4362-b2e1-557b89a15201)
-![Screenshot 2022-10-31 194642](https://github.com/user-attachments/assets/e089ea73-99b2-4984-9ebb-dd6603b5a660)
-![Screenshot 2022-10-31 194704](https://github.com/user-attachments/assets/bc970457-0981-46c4-a4ed-b5b5b38ee54e)
-![Screenshot 2022-10-31 194728](https://github.com/user-attachments/assets/73334d56-ff85-44a1-9d28-4a4ff1c9f43d)
-![Screenshot 2022-10-31 194807](https://github.com/user-attachments/assets/30ba66b4-c332-478a-bec5-4d35aaf6c83b)
-![Screenshot 2022-10-31 201237](https://github.com/user-attachments/assets/76ff2452-f143-4dfe-b508-7b831d867c5e)
-![Screenshot 2022-10-31 201456](https://github.com/user-attachments/assets/dc70f490-e813-498f-b75c-e9ebb5a05623)
 
 ### Output Result
 ![Screenshot 2022-10-31 201954](https://github.com/user-attachments/assets/1cf601bf-507b-434f-a80e-e08f96b17476)
