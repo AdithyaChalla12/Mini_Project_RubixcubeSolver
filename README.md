@@ -9,7 +9,8 @@ Rubix Cube Solver is a project designed to solve a Rubik's Cube by allowing user
 - **Solution Output**: Display the sequence of moves needed to solve the cube.
 ### Snapshots
 Scanning all the sides of the cube similarly as shown in the below image 
-![Screenshot 2022-10-31 194613](https://github.com/user-attachments/assets/78c02a78-0897-4362-b2e1-557b89a15201)
+![image](https://github.com/user-attachments/assets/f54576b7-99f9-4e04-8376-1cb008b54ad7)
+
 
 ### Output Result
 ![Screenshot 2022-10-31 201954](https://github.com/user-attachments/assets/1cf601bf-507b-434f-a80e-e08f96b17476)
