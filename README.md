@@ -7,6 +7,9 @@ Rubix Cube Solver is a project designed to solve a Rubik's Cube by allowing user
 - **Face Detection**: Use OpenCV to capture and recognize the faces of the Rubik's Cube.
 - **Kociemba Algorithm**: Apply the Kociemba algorithm to find the optimal solution for solving the cube.
 - **Solution Output**: Display the sequence of moves needed to solve the cube.
+### Snapshots
+![Screenshot 2022-10-31 194613](https://github.com/user-attachments/assets/78c02a78-0897-4362-b2e1-557b89a15201)
+
 
 ## Installation
 
